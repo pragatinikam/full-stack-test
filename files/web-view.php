@@ -1,5 +1,5 @@
 <?php
-  require_once'scripts/crud.php';
+  require_once'crud.php';
 ?>
 <!DOCTYPE html>
 <html>
